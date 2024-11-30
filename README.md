@@ -8,7 +8,7 @@ Is a game, that we got a pet that we should fead, and mantain happy, and be cons
 
 ## Tech
 
-* [Babylon.js](https://doc.babylonjs.com/)
+* [Babylon 7.37.0](https://doc.babylonjs.com/)
 * [SCSS](https://sass-lang.com/documentation/syntax/)
 * Angular 19.0.2
 
